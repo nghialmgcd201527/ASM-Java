@@ -1,0 +1,1439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="inventory:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/controllers/BaseController.java" line="96" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="Login added, Change in UI, Database connected.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/PhoneNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/54e82ff4-8867-4aa8-87f3-225b6b3a6786/storage_v2/_src_/schema/db.fgwAAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/54e82ff4-8867-4aa8-87f3-225b6b3a6786/storage_v2/_src_/schema/practise.K4M5rA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/54e82ff4-8867-4aa8-87f3-225b6b3a6786/storage_v2/_src_/schema/quiz.VSI1AA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/54e82ff4-8867-4aa8-87f3-225b6b3a6786/storage_v2/_src_/schema/sakila.oXLGyQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/54e82ff4-8867-4aa8-87f3-225b6b3a6786/storage_v2/_src_/schema/teslasrentalinventory._A5XaA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/54e82ff4-8867-4aa8-87f3-225b6b3a6786/storage_v2/_src_/schema/test_db.Sws3qw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/54e82ff4-8867-4aa8-87f3-225b6b3a6786/storage_v2/_src_/schema/world.khvBBg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/54e82ff4-8867-4aa8-87f3-225b6b3a6786/storage_v2/_src_/schema/xx.AA8AAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b41d40ed-0845-4871-8332-8970d1cc81df.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/b41d40ed-0845-4871-8332-8970d1cc81df.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InventorySystem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/InventorySystem.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventorySystem/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventorySystem/main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/AccountController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/AccountController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/AccountListController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/AccountListController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/AdministratorController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/AdministratorController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/BaseController$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/BaseController$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/BaseController$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/BaseController$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/BaseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/BaseController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/CustomerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/CustomerPurchaseListController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/CustomerPurchaseListController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/CustomersRentalListController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/CustomersRentalListController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/DashboardController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/DashboardController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/DueUpdateController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/DueUpdateController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/EmployeeListController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/EmployeeListController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/InitializerController$LoadRecords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/InitializerController$LoadRecords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/InitializerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/InitializerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/InventoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/InventoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/ItemTypeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/ItemTypeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/LogInController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/LogInController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/NewEmployeeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/NewEmployeeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/PromptDialogController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/PromptDialogController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/RentalListController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/RentalListController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/RentalsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/RentalsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/SellListController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/SellListController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/SellsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/SellsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/TransactionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/TransactionController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/TransactionListController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventorySystem/main/java/controllers/TransactionListController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventorySystem/main/java/others/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventorySystem/main/java/others/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventorySystem/main/java/others/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventorySystem/main/java/others/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventorySystem/main/java/others/DBConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventorySystem/main/java/others/DBConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventorySystem/main/java/others/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventorySystem/main/java/others/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventorySystem/main/java/others/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventorySystem/main/java/others/Item.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventorySystem/main/java/others/Purchase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventorySystem/main/java/others/Purchase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventorySystem/main/java/others/Rent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventorySystem/main/java/others/Rent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventorySystem/main/java/others/Transact.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventorySystem/main/java/others/Transact.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InventorySystem/main/resources/view/dueupdate.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InventorySystem/main/resources/view/dueupdate.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/AccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/AccountController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/AccountListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/AccountListController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/AdministratorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/AdministratorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/BaseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/BaseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/CustomerPurchaseListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/CustomerPurchaseListController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/CustomersRentalListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/CustomersRentalListController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/DueUpdateController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/DueUpdateController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/EmployeeListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/EmployeeListController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/InitializerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/InitializerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/NewEmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/NewEmployeeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/PromptDialogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/PromptDialogController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/RentalListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/RentalListController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/RentalsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/RentalsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/TransactionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/TransactionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controllers/TransactionListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controllers/TransactionListController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/others/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/others/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/others/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/others/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/others/DBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/others/DBConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/others/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/others/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/others/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/others/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/others/Purchase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/others/Purchase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/others/Rent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/others/Rent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/others/Transact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/others/Transact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/view/dueupdate.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/view/dueupdate.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="testdb@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="testdb@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="testdb@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="teslarentalinventory: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="testdb@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="teslarentalinventory: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="customers: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="testdb@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="teslarentalinventory: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="financialtronpurchase: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="testdb@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="teslarentalinventory: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="purchases: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="FxmlFile" />
+        <option value="JUnit5 Test Class" />
+        <option value="AnnotationType" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>itemN</find>
+      <find>itemNames</find>
+      <find>txtT</find>
+      <find>111</find>
+      <find>cha</find>
+      <find>chart</find>
+      <find>img</find>
+      <find>btnA</find>
+      <find>Entry m</find>
+      <find>reload</find>
+      <find>reloadR</find>
+      <find>btnT</find>
+      <find>btnTodayS</find>
+      <find>lblCos</find>
+      <find>loadA</find>
+      <find>lblC</find>
+      <find>loadAga</find>
+      <find>price</find>
+      <find>lbl</find>
+      <find>lblStock</find>
+      <find>txtSt</find>
+      <find>GUI</find>
+      <find>lblMo</find>
+      <find>start</find>
+      <find>if \(startTransaction\) \{\n            startTransaction \= false\; \/\/Resetting TransactionGUI Value\n            btnIcon\.setGlyphName\(\&quot;QUESTION\&quot;\)\;\n            lblVerify\.setText\(\&quot;Verify Input\&quot;\)\;\n            Tooltip tooltip \= new Tooltip\(\&quot;Verify Input\&quot;\)\;\n            btnProcced\.setTooltip\(tooltip\)\;\n                \/\/Loading TransactionGUI Window\n                \/\/Setting Values in TransactionGUI Window\n                TransactionGUI\.cusID \= Integer\.valueOf\(txtCustomerId\.getText\(\)\)\;\n                TransactionGUI\.purchaseId \= lblId\.getText\(\)\;\n                TransactionGUI\.purchaseQty \= Integer\.valueOf\(txtQty\.getText\(\)\)\;\n                TransactionGUI\.itemID \= Integer\.valueOf\(txtItemId\.getText\(\)\)\;\n                TransactionGUI\.rentOrSale \= true\;\n\n                Double paid \= 0\.0\;\n\n                \/\/Checking if input is valid\n                try \{\n                    if\(txtPayAmount\.getText\(\)\.equals\(\&quot;\&quot;\)\)\n                        paid \= 0\.0\;\n                    else\n                        paid \= Double\.valueOf\(txtPayAmount\.getText\(\)\)\;\n\n                    TransactionGUI\.payAmount \= paid\;\n                    TransactionGUI\.due \= Double\.valueOf\(lblCost\.getText\(\)\) \- paid\;\n\n\n                    Connection connection \= DBConnection\.getConnection\(\)\;\n\n                    \/\/Checking for stock availability\n                    PreparedStatement checkItemStock \= connection\.prepareStatement\(\&quot;SELECT stock FROM item WHERE itemID \= \&quot;\+Integer\.valueOf\(txtItemId\.getText\(\)\)\)\;\n                    ResultSet itemStock \= checkItemStock\.executeQuery\(\)\;\n\n                    Integer stock \= 0\;\n\n                    while\(itemStock\.next\(\)\) \{\n                        stock \= itemStock\.getInt\(1\)\;\n                    \}\n\n                    if\(\(stock \- Integer\.valueOf\(txtQty\.getText\(\)\)\) \&lt; 0\) \{\n                        new PromptDialogGUI\(\&quot;Insuffecient Stock\!\&quot;\, \&quot;Stock is insuffecient to validate this purchase\.\\nRequired\: \&quot; \+\n                                Integer\.valueOf\(txtQty\.getText\(\)\) \+\&quot;\\nIn Stock\:\&quot; \+ stock\)\;\n                        return\;\n                    \}\n\n                    TransactionGUI\.stock \= stock\;\n\n                    \/\/Checking for accounnts\n                    PreparedStatement preparedStatement \= connection\.prepareStatement\(\&quot;SELECT count\(\*\) from accounts\, customers where customerID \= Customers_customerID AND Customers_customerID \= \&quot;\+Integer\.valueOf\(txtCustomerId\.getText\(\)\)\)\;\n                    ResultSet rs \= preparedStatement\.executeQuery\(\)\;\n\n                    int chk \= 0\;\n\n                    while\(rs\.next\(\)\) \{\n                        chk \= rs\.getInt\(1\)\;\n                    \}\n                    if\(chk \&lt;\= 0\) \{\n                        new PromptDialogGUI\(\&quot;No Account\!\&quot;\, \&quot;Customer has no account\. Please create an account first then try again\.\&quot;\)\;\n                    \} else \{\n                        Parent trPanel \= FXMLLoader\.load\(getClass\(\)\.getResource\(\&quot;\/fxml\/transaction\.fxml\&quot;\)\)\;\n                        Scene trScene \= new Scene\(trPanel\)\;\n                        Stage trStage \= new Stage\(\)\;\n                        trStage\.setScene\(trScene\)\;\n                        trStage\.setResizable\(false\)\;\n                        trStage\.show\(\)\;\n                    \}\n\n                    connection\.close\(\)\;\n\n                \} catch \(Exception e\) \{\n                    txtPayAmount\.setUnFocusColor\(Color\.web\(\&quot;red\&quot;\)\)\;\n                    JFXSnackbar snackbar \= new JFXSnackbar\(rightPane\)\;\n                    snackbar\.show\(\&quot;Invalid Input Format\&quot;\, 3000\)\;\n                \}\n\n        \} else \{</find>
+      <find>toggle</find>
+      <find>Syst</find>
+      <find>initialView</find>
+      <find>addFlag</find>
+      <find>item</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>btnDashboard</replace>
+      <replace>txtStock</replace>
+      <replace>toggleTable</replace>
+      <replace>setView</replace>
+      <replace>addOrUpdate</replace>
+    </replaceStrings>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Afif Al Mamun &lt;afifanik@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/controller/CustomerGUI.java" />
+        <option value="$PROJECT_DIR$/src/controller/AccountGUI.java" />
+        <option value="$PROJECT_DIR$/src/controller/InventoryGUI.java" />
+        <option value="$PROJECT_DIR$/src/controller/AdministratorGUI.java" />
+        <option value="$PROJECT_DIR$/src/controller/BaseGUI.java" />
+        <option value="$PROJECT_DIR$/src/controller/TransactionGUI.java" />
+        <option value="$PROJECT_DIR$/src/controller/InitializerGUI.java" />
+        <option value="$PROJECT_DIR$/src/controller/TransactionController.java" />
+        <option value="$PROJECT_DIR$/src/controller/InitializerController.java" />
+        <option value="$PROJECT_DIR$/src/controller/CustomerController.java" />
+        <option value="$PROJECT_DIR$/src/fxml/Test.java" />
+        <option value="$PROJECT_DIR$/src/controller/Test.java" />
+        <option value="$PROJECT_DIR$/src/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/src/fxml/test.fxml" />
+        <option value="$PROJECT_DIR$/src/controllers/RentalListController.java" />
+        <option value="$PROJECT_DIR$/src/java/controllers/main/Main.java" />
+        <option value="$PROJECT_DIR$/src/controllers/AccountListController.java" />
+        <option value="$PROJECT_DIR$/src/java/controllers/AccountListController.java" />
+        <option value="$PROJECT_DIR$/src/java/others/Main.java" />
+        <option value="$PROJECT_DIR$/src/java/main/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/others/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/others/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/Twet.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/view/initializer.fxml" />
+        <option value="$PROJECT_DIR$/src/main/resources/view/customer.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/InventoryController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/AccountController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/AccountListController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/CustomerPurchaseListController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/CustomersRentalListController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/DashboardController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/DueUpdateController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/EmployeeListController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/ItemTypeController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/LogInController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/NewEmployeeController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/PromptDialogController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/TransactionController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/TransactionListController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/BaseController.java" />
+        <option value="$PROJECT_DIR$/src/main/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/SellListController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/AdministratorController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/RentalListController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/others/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/others/DBConnection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/SellsController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/RentalsController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/InitializerController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/controllers/CustomerController.java" />
+        <option value="$PROJECT_DIR$/README.MD" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="397" />
+    <option name="y" value="487" />
+    <option name="width" value="894" />
+    <option name="height" value="502" />
+  </component>
+  <component name="ProjectId" id="27QVbgk6jCjgHHMNfpOXrJ9h8Li" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="InventorySystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InventorySystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InventorySystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InventorySystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InventorySystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InventorySystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InventorySystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InventorySystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InventorySystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InventorySystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InventorySystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InventorySystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="others" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="InventorySystem" type="58d84e3e:PackageViewProjectNode" />
+              <item name="InventorySystem" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="InventorySystem" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="InventorySystem" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/Progs/TeslaRentalInventory/src/fxml/initializer.fxml" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594459821101" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL&#10;Amazon Redshift" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.153125" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="main.java.test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project_Final\IntellijIDEA\InventorySystem\src\fxml" />
+      <recent name="D:\Project_Final\IntellijIDEA\TeslaRentalInventory\src\fxml" />
+      <recent name="D:\Progs\TeslaRentalInventory\src\fxml" />
+      <recent name="D:\Progs\TeslaRentalInventory\src\resource\icons" />
+      <recent name="D:\Progs\TeslaRentalInventory\src\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project_Final\IntellijIDEA\InventorySystem\src\main\others" />
+      <recent name="D:\Progs\TeslaRentalInventory\src\resource\icons" />
+      <recent name="D:\Progs\TeslaRentalInventory\src\resource\" />
+      <recent name="D:\Progs\TeslaRentalInventory\src" />
+      <recent name="D:\Progs\TeslaRentalInventory\src\resource" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="controller" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="main.java.test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="InventorySystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java.controllers.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeTest.EmployeeRole" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InventorySystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.java.test" />
+      <option name="MAIN_CLASS_NAME" value="main.java.test.EmployeeTest" />
+      <option name="METHOD_NAME" value="EmployeeRole" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeTest.getAccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InventorySystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.java.test" />
+      <option name="MAIN_CLASS_NAME" value="main.java.test.EmployeeTest" />
+      <option name="METHOD_NAME" value="getAccess" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeTest.testIsEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InventorySystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.java.test" />
+      <option name="MAIN_CLASS_NAME" value="main.java.test.EmployeeTest" />
+      <option name="METHOD_NAME" value="testIsEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeTest.testUsingStrictRegex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InventorySystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.java.test" />
+      <option name="MAIN_CLASS_NAME" value="main.java.test.EmployeeTest" />
+      <option name="METHOD_NAME" value="testUsingStrictRegex" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InventorySystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.java.test" />
+      <option name="MAIN_CLASS_NAME" value="main.java.test.PhoneNumberTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PhoneNumberTest" />
+        <item itemvalue="JUnit.EmployeeTest.getAccess" />
+        <item itemvalue="JUnit.EmployeeTest.testUsingStrictRegex" />
+        <item itemvalue="JUnit.EmployeeTest.EmployeeRole" />
+        <item itemvalue="JUnit.EmployeeTest.testIsEmpty" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+      <workItem from="1531034287594" duration="617000" />
+      <workItem from="1531067100611" duration="13038000" />
+      <workItem from="1531082021112" duration="2286000" />
+      <workItem from="1531084437425" duration="63000" />
+      <workItem from="1531111252194" duration="32121000" />
+      <workItem from="1531172179422" duration="4803000" />
+      <workItem from="1531212338044" duration="25008000" />
+      <workItem from="1531254894096" duration="3385000" />
+      <workItem from="1531258522602" duration="1467000" />
+      <workItem from="1531328680773" duration="914000" />
+      <workItem from="1531341075699" duration="5554000" />
+      <workItem from="1531430406370" duration="4207000" />
+      <workItem from="1531468823089" duration="635000" />
+      <workItem from="1531471496659" duration="1062000" />
+      <workItem from="1531500409106" duration="7000" />
+      <workItem from="1531503522008" duration="2393000" />
+      <workItem from="1531583488546" duration="19286000" />
+      <workItem from="1531605307955" duration="187000" />
+      <workItem from="1531633972103" duration="291000" />
+      <workItem from="1531635116656" duration="260000" />
+      <workItem from="1531661537241" duration="10977000" />
+      <workItem from="1531676749266" duration="10772000" />
+      <workItem from="1531720321716" duration="782000" />
+      <workItem from="1531755949335" duration="4813000" />
+      <workItem from="1531860478460" duration="1179000" />
+      <workItem from="1532117704712" duration="4978000" />
+      <workItem from="1532126391412" duration="21000" />
+      <workItem from="1532197098919" duration="84000" />
+      <workItem from="1532207863363" duration="4245000" />
+      <workItem from="1532274130145" duration="20624000" />
+      <workItem from="1532335760401" duration="25933000" />
+      <workItem from="1532385153165" duration="2350000" />
+      <workItem from="1532387771987" duration="356000" />
+      <workItem from="1532416182513" duration="2793000" />
+      <workItem from="1532419193282" duration="114000" />
+      <workItem from="1532431260399" duration="7680000" />
+      <workItem from="1532600370859" duration="176000" />
+      <workItem from="1532604932835" duration="217000" />
+      <workItem from="1532667127379" duration="16842000" />
+      <workItem from="1532713914605" duration="15674000" />
+      <workItem from="1532880290659" duration="19323000" />
+      <workItem from="1532930780337" duration="2573000" />
+      <workItem from="1532963420569" duration="24266000" />
+      <workItem from="1533019111642" duration="20726000" />
+      <workItem from="1533041804446" duration="13436000" />
+      <workItem from="1533062179970" duration="13900000" />
+      <workItem from="1533098241707" duration="41751000" />
+      <workItem from="1533146649952" duration="47000" />
+      <workItem from="1533148905526" duration="4830000" />
+      <workItem from="1533310942880" duration="5064000" />
+      <workItem from="1533538173011" duration="1277000" />
+      <workItem from="1533585262175" duration="6279000" />
+      <workItem from="1533657691404" duration="337000" />
+      <workItem from="1533658210511" duration="1429000" />
+      <workItem from="1533829140098" duration="4904000" />
+      <workItem from="1533841690860" duration="491000" />
+      <workItem from="1533901060278" duration="1685000" />
+      <workItem from="1533910271512" duration="2189000" />
+      <workItem from="1533986906748" duration="213000" />
+      <workItem from="1533998003766" duration="1716000" />
+      <workItem from="1534000973769" duration="1970000" />
+      <workItem from="1534003171509" duration="63000" />
+      <workItem from="1534004013735" duration="656000" />
+      <workItem from="1534058248993" duration="1954000" />
+      <workItem from="1534075288679" duration="298000" />
+      <workItem from="1537444574912" duration="533000" />
+      <workItem from="1537508293683" duration="3143000" />
+      <workItem from="1537707625524" duration="81000" />
+      <workItem from="1539787673160" duration="7530000" />
+      <workItem from="1539806048808" duration="129000" />
+      <workItem from="1540478783512" duration="10791000" />
+      <workItem from="1540527017946" duration="3671000" />
+      <workItem from="1540735514242" duration="4716000" />
+      <workItem from="1540793431585" duration="1473000" />
+      <workItem from="1541003227779" duration="3132000" />
+      <workItem from="1541081126212" duration="5573000" />
+      <workItem from="1541166512975" duration="6098000" />
+      <workItem from="1541516714703" duration="2977000" />
+      <workItem from="1541865344976" duration="589000" />
+      <workItem from="1542899964538" duration="1715000" />
+      <workItem from="1543158335085" duration="5700000" />
+      <workItem from="1543247611272" duration="100000" />
+      <workItem from="1543248876189" duration="849000" />
+      <workItem from="1543335994313" duration="1400000" />
+      <workItem from="1543391032619" duration="594000" />
+      <workItem from="1543508094569" duration="605000" />
+      <workItem from="1543508791269" duration="478000" />
+      <workItem from="1545466140283" duration="116000" />
+      <workItem from="1545466667768" duration="970000" />
+      <workItem from="1545547893432" duration="1988000" />
+      <workItem from="1546018944355" duration="1597000" />
+      <workItem from="1546786896091" duration="2596000" />
+      <workItem from="1546804223820" duration="153000" />
+      <workItem from="1546843372276" duration="151000" />
+      <workItem from="1546844899470" duration="784000" />
+      <workItem from="1546879764469" duration="6276000" />
+      <workItem from="1547022830903" duration="6055000" />
+      <workItem from="1547131192478" duration="5229000" />
+      <workItem from="1547193332962" duration="3005000" />
+      <workItem from="1547224565788" duration="9507000" />
+      <workItem from="1547285264760" duration="3519000" />
+      <workItem from="1547305232308" duration="5145000" />
+      <workItem from="1547365103527" duration="6272000" />
+      <workItem from="1547392438020" duration="9952000" />
+      <workItem from="1547480023450" duration="5543000" />
+      <workItem from="1547562414919" duration="975000" />
+      <workItem from="1547734800289" duration="622000" />
+      <workItem from="1548490252654" duration="1124000" />
+      <workItem from="1548861419635" duration="1762000" />
+      <workItem from="1548949230493" duration="6672000" />
+      <workItem from="1594377639911" duration="3696000" />
+      <workItem from="1594388653193" duration="12278000" />
+      <workItem from="1594402463377" duration="1294000" />
+      <workItem from="1594403962593" duration="762000" />
+      <workItem from="1594454340960" duration="1360000" />
+      <workItem from="1594455831772" duration="2461000" />
+      <workItem from="1649252382071" duration="1284000" />
+      <workItem from="1649253701719" duration="600000" />
+      <workItem from="1649299323993" duration="1044000" />
+      <workItem from="1649338483740" duration="875000" />
+      <workItem from="1649340775552" duration="18000" />
+      <workItem from="1649341449010" duration="1126000" />
+      <workItem from="1649343090255" duration="66000" />
+      <workItem from="1649343391927" duration="289000" />
+      <workItem from="1649378552244" duration="6469000" />
+      <workItem from="1649592648829" duration="1310000" />
+      <workItem from="1649595923642" duration="368000" />
+      <workItem from="1649596593642" duration="616000" />
+      <workItem from="1649740565935" duration="131000" />
+      <workItem from="1649740835227" duration="206000" />
+      <workItem from="1649744985725" duration="92000" />
+      <workItem from="1649982962214" duration="3232000" />
+      <workItem from="1649992291794" duration="1713000" />
+      <workItem from="1650073205384" duration="597000" />
+      <workItem from="1650242995470" duration="4320000" />
+      <workItem from="1650274803101" duration="22000" />
+      <workItem from="1650275032054" duration="31000" />
+      <workItem from="1650276800826" duration="776000" />
+      <workItem from="1650291594448" duration="2735000" />
+      <workItem from="1650297067576" duration="57000" />
+      <workItem from="1650459685072" duration="1923000" />
+      <workItem from="1650463070028" duration="1574000" />
+      <workItem from="1650600955235" duration="1270000" />
+      <workItem from="1650683862462" duration="3711000" />
+      <workItem from="1650688190749" duration="42000" />
+      <workItem from="1650702211738" duration="4381000" />
+      <workItem from="1650724210174" duration="4271000" />
+      <workItem from="1650729091042" duration="1159000" />
+      <workItem from="1650847362619" duration="5867000" />
+      <workItem from="1650859366271" duration="1522000" />
+      <workItem from="1650934127752" duration="4564000" />
+      <workItem from="1650982078238" duration="506000" />
+      <workItem from="1651031403623" duration="1973000" />
+      <workItem from="1651065734332" duration="4451000" />
+      <workItem from="1651111036500" duration="3184000" />
+      <workItem from="1651135726313" duration="2114000" />
+      <workItem from="1651196369522" duration="2570000" />
+      <workItem from="1651290665747" duration="1573000" />
+      <workItem from="1651372079679" duration="599000" />
+      <workItem from="1651391106230" duration="311000" />
+    </task>
+    <task id="LOCAL-00001" summary="Multiple view added.">
+      <created>1531118175694</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1531118175694</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Login added, Change in UI, Database connected.">
+      <created>1531171807715</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1531171807715</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="584645000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.24583964" />
+      <window_info id="Structure" order="1" weight="0.2647504" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" weight="0.32980332" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32850242" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23832528" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39865997" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329582" />
+      <window_info anchor="bottom" id="Event Log" order="7" weight="0.329582" />
+      <window_info anchor="bottom" id="Application Servers" order="8" />
+      <window_info anchor="bottom" id="Profiler" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.7491961" />
+      <window_info anchor="bottom" id="Changes" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32850242" />
+      <window_info anchor="bottom" id="Problems" order="13" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.32850242" />
+      <window_info anchor="bottom" id="SQL Generator" order="15" weight="0.8324958" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.3252818" />
+      <window_info anchor="bottom" id="Database Changes" order="17" weight="0.329582" />
+      <window_info anchor="bottom" id="Sequence" order="18" weight="0.6575563" />
+      <window_info anchor="bottom" id="Inspection Results" order="19" weight="0.329582" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.3295107" />
+      <window_info anchor="right" id="Database" order="5" weight="0.21482602" />
+      <window_info anchor="right" id="JetGradle" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" x="92" y="92" width="1182" height="554" id="Documentation" order="10" type="FLOATING" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.19288956" />
+      <window_info id="Structure" order="1" weight="0.24281392" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" weight="0.32980332" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329582" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40836012" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39865997" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329582" />
+      <window_info anchor="bottom" id="Event Log" order="7" weight="0.329582" />
+      <window_info anchor="bottom" id="Application Servers" order="8" />
+      <window_info anchor="bottom" id="Profiler" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.7491961" />
+      <window_info anchor="bottom" id="Changes" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.329582" />
+      <window_info anchor="bottom" id="Problems" order="13" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.32998326" />
+      <window_info anchor="bottom" id="SQL Generator" order="15" weight="0.8324958" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.32636657" />
+      <window_info anchor="bottom" id="Database Changes" order="17" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.3295107" />
+      <window_info anchor="right" id="Database" order="5" weight="0.17397882" />
+      <window_info anchor="right" id="JetGradle" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" x="92" y="92" width="1182" height="554" id="Documentation" order="10" type="FLOATING" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <MESSAGE value="Multiple view added." />
+    <MESSAGE value="Login added, Change in UI, Database connected." />
+    <option name="LAST_COMMIT_MESSAGE" value="Login added, Change in UI, Database connected." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/controllers/CustomerController.java</url>
+          <line>533</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/css/customer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/css/accounts.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/css/administrator.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/others/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/others/Purchase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/view/home.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/view/inventory.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/view/selllist.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/view/test.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/others/TestController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/Foo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/view/initializer.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="14" column="128" selection-start-line="14" selection-start-column="128" selection-end-line="14" selection-end-column="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/view/customer.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="155" column="167" lean-forward="true" selection-start-line="155" selection-start-column="167" selection-end-line="155" selection-end-column="167" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/AccountListController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1718">
+          <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/CustomerPurchaseListController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/CustomersRentalListController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/DueUpdateController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1718">
+          <caret line="94" column="9" selection-start-line="94" selection-start-column="9" selection-end-line="94" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/EmployeeListController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18">
+          <caret line="131" column="31" selection-start-line="131" selection-start-column="31" selection-end-line="131" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/InventoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="105" column="70" selection-start-line="105" selection-start-column="70" selection-end-line="105" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/uml.uml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/TransactionListController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="85" column="16" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/PromptDialogController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/TransactionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4925">
+          <caret line="211" selection-start-line="211" selection-end-line="211" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/uml.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/tt.uml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/BaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1820">
+          <caret line="107" column="23" selection-start-line="107" selection-start-column="23" selection-end-line="107" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/NewEmployeeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="70" column="13" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/ItemTypeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3240">
+          <caret line="182" column="23" selection-start-line="182" selection-start-column="23" selection-end-line="182" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_181/javafx-src.zip!/javafx/fxml/FXMLLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1699">
+          <caret line="3123" selection-start-line="3123" selection-end-line="3123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b41d40ed-0845-4871-8332-8970d1cc81df/schema/teslarentalinventory/table/accounts">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b41d40ed-0845-4871-8332-8970d1cc81df/schema/teslarentalinventory/table/customers">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/DashboardController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="820">
+          <caret line="56" column="37" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/AdministratorController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2380">
+          <caret line="145" column="45" selection-start-line="145" selection-start-column="45" selection-end-line="145" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/RentalListController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="69" column="36" selection-start-line="69" selection-start-column="36" selection-end-line="69" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/SellListController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" column="54" selection-start-line="56" selection-start-column="54" selection-end-line="56" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/mysql-connector-java-8.0.11.jar!/com/mysql/cj/jdbc/ClientPreparedStatement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="769" selection-start-line="769" selection-end-line="769" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/b41d40ed-0845-4871-8332-8970d1cc81df">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>b41d40ed-0845-4871-8332-8970d1cc81df</OriginalElement>
+          <nodes>
+            <node x="" y="">b41d40ed-0845-4871-8332-8970d1cc81df.TABLE:teslarentalinventory.item</node>
+            <node x="" y="">b41d40ed-0845-4871-8332-8970d1cc81df.TABLE:teslarentalinventory.rentals</node>
+            <node x="" y="">b41d40ed-0845-4871-8332-8970d1cc81df.TABLE:teslarentalinventory.user</node>
+            <node x="" y="">b41d40ed-0845-4871-8332-8970d1cc81df.TABLE:teslarentalinventory.trtypecode</node>
+            <node x="" y="">b41d40ed-0845-4871-8332-8970d1cc81df.TABLE:teslarentalinventory.itemtype</node>
+            <node x="" y="">b41d40ed-0845-4871-8332-8970d1cc81df.TABLE:teslarentalinventory.financialtronrental</node>
+            <node x="" y="">b41d40ed-0845-4871-8332-8970d1cc81df.TABLE:teslarentalinventory.usercredents</node>
+            <node x="" y="">b41d40ed-0845-4871-8332-8970d1cc81df.TABLE:teslarentalinventory.financialtronpurchase</node>
+            <node x="" y="">b41d40ed-0845-4871-8332-8970d1cc81df.TABLE:teslarentalinventory.accounts</node>
+            <node x="" y="">b41d40ed-0845-4871-8332-8970d1cc81df.TABLE:teslarentalinventory.customers</node>
+            <node x="" y="">b41d40ed-0845-4871-8332-8970d1cc81df.TABLE:teslarentalinventory.purchases</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.9614035087719296" x="425.0" y="150.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/LogInController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-916">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/others/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/others/DBConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="15" column="76" selection-start-line="15" selection-start-column="76" selection-end-line="15" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InventorySystem.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/RentalsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="313" column="78" selection-start-line="313" selection-start-column="78" selection-end-line="313" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/SellsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="251" column="13" selection-start-line="251" selection-start-column="13" selection-end-line="251" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/others/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1120">
+          <caret line="92" column="106" selection-start-line="92" selection-start-column="106" selection-end-line="92" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/CustomerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="635" column="38" selection-start-line="635" selection-start-column="38" selection-end-line="635" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/AccountController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="71" column="30" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controllers/InitializerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="264" column="47" selection-start-line="264" selection-start-column="47" selection-end-line="264" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="114">
+            <caret line="28" column="59" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="artifact" />
+              <type id="javaee-facet-resources" />
+              <type id="jpa-descriptors" />
+              <type id="library" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>inventory:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <last-edited>Afif</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>InventorySystem</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>mysql-connector-java-8.0.111</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="500.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1" fx:controller="main.java.controllers.DueUpdateController">
+    <children>
+        <TextArea fx:id="textArea" layoutX="116.0" layoutY="108.0" prefHeight="249.0" prefWidth="401.0" />
+        <Button layoutX="612.0" layoutY="214.0" mnemonicParsing="false" onMouseClicked="#getFile" prefHeight="37.0" prefWidth="72.0" text="Load File" />
+        <Button layoutX="612.0" layoutY="320.0" mnemonicParsing="false" onMouseClicked="#saveFile" prefHeight="37.0" prefWidth="72.0" text="Save File" />
+        <Label fx:id="time" layoutX="344.0" layoutY="395.0" prefHeight="31.0" prefWidth="200.0">
+            <font>
+                <Font size="14.0" />
+            </font></Label>
+    </children>
+</AnchorPane>
